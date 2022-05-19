@@ -177,7 +177,7 @@ src\
 
 ## API Documentation
 
-To view the list of available APIs and their specifications, please visit https://documentation.code.aldipee.com.
+To view the list of available APIs and their specifications, please visit http://documentation.code.aldipee.com.
 
 ## Error Handling
 
