@@ -1,0 +1,9 @@
+module.exports.Token = require('./token.model');
+module.exports.User = require('./user.model');
+module.exports.Todo = require('./todo.model');
+module.exports.Product = require('./product.model');
+module.exports.Book = require('./book.model');
+module.exports.People = require('./people.model');
+module.exports.FavoriteBook = require('./favorite.book.model');
+module.exports.Streaming = require('./streaming.model');
+module.exports.Quote = require('./quote.model');
